@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "**************************************"
-  ui_print "      Twemoji Remastered v13.1.0     "
+  ui_print "      Twemoji Remastered v14.0.2     "
   ui_print "     Maintained by Julien Gontier     "
   ui_print "**************************************"
 }
