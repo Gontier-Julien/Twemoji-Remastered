@@ -1,7 +1,5 @@
-# Twemoji Remastered module for Magisk
+# Twemoji-Remastered Magisk module 🐦
 
-This module uses Magisk to systemlessly to replace Android emojis with Twemoji (Twitter Emoji).
+This is Magisk module to systemlessly to replace your phone emojis with Twemoji ([Twitter Emoji](https://emojipedia.org/twitter/)) 🐦
 
-The module require magisk v20.4+ and above as it minimum version.
-
-Preview available [here](https://emojipedia.org/twitter/).
+The module require Magisk v20.4+ and above as it minimum version.
