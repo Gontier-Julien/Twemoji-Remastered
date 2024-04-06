@@ -28,8 +28,8 @@ REPLACE="
 # Set what we want to display when installing the module
 print_modname() {
   ui_print "**************************************"
-  ui_print "      Twemoji Remastered v15.0.3"
-  ui_print "     Maintained by Julien Gontier"
+  ui_print "      Twemoji Remastered v15.1.0"
+  ui_print "     Maintained by Gontier Julien"
   ui_print "**************************************"
 }
 
